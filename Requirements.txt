@@ -1,1 +1,15 @@
+Business questions you must answer by the end:
 
+1. How is revenue trending, and what drives seasonality?
+2. Which products, customers and countries generate most of the revenue?
+3. How bad are returns and cancellations, and where do they concentrate?
+4. Who are our best, at-risk and lost customers, and what should we do about each group?
+5. Are customers coming back? How quickly does each acquisition cohort decay?
+6. Which products are bought together, and how could that inform bundling?
+7. What will monthly revenue look like over the next few months?
+
+
+Tools
+
+Python (pandas, NumPy, matplotlib/seaborn/plotly, scikit-learn, mlxtend, statsmodels or Prophet), 
+SQL (SQLite, PostgreSQL or DuckDB), Power BI Desktop, Git/GitHub, and optionally Jupyter or Google Colab.
